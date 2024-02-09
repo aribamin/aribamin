@@ -1,7 +1,7 @@
 <!-- Animated Introduction (credits to DenverCoder1) -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1500&color=FFE2E2&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&lines=Hello!;My+Name+is+Arib+Amin" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1500&color=0096FF&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&lines=Hello!;My+Name+is+Arib+Amin" />
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1500&color=001D1D&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&lines=Hello!;My+Name+is+Arib+Amin" />
   </picture>
   <h1 />
