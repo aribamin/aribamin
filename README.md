@@ -10,7 +10,6 @@
 <!-- Description -->
 <ul>
   <li> Computer Science student at the <strong>University of Alberta</strong> </li>
-  <li> Proficient in <strong>C, Python, Java, HTML, CSS, and JavaScript</strong> </li>
   <li> Feel free to connect with me on <a href=https://www.linkedin.com/in/aribamin/> LinkedIn </a><br /> </li>
 </ul>
 <!-- Github Stats (credits to Anuraghazra) -->
