@@ -10,7 +10,7 @@
 <!-- Description -->
 <ul>
   <li> Computer Science student at the <strong>University of Alberta</strong> </li>
-  <li> Below is some code that I have written and projects that I have worked on! </li>
+  <li> Below is some code and projects that I have worked on! </li>
   <li> Feel free to connect with me on <a href=https://www.linkedin.com/in/aribamin/> LinkedIn </a><br /> </li>
 </ul>
 <!-- Github Stats (credits to Anuraghazra) -->
